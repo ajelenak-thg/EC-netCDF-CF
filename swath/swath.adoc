@@ -152,7 +152,7 @@ variables:
 <1> Time coordinates with the rank greater than one must be listed in the `coordinates` attribute of their swath data variables.
 ====
 
-NOTE: Some satellite swath data use the International Atomic Time (TAI) which currently is not supported by the CF convention (see this http://mailman.cgd.ucar.edu/pipermail/cf-metadata/2015/058061.html[thread^] on the CF mailing list for background). The encoding examples in this proposal use the Gregorian calendar.
+NOTE: Some satellite swath data use the International Atomic Time (TAI) which currently is not supported by the CF convention (see this http://mailman.cgd.ucar.edu/pipermail/cf-metadata/2015/007865.html[thread^] on the CF mailing list for background). The encoding examples in this proposal use the Gregorian calendar.
 
 === Spectral Coordinates
 
